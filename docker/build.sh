@@ -1,0 +1,1 @@
+docker build -t tudelft-space-cacd .
